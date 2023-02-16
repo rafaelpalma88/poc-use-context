@@ -13,10 +13,13 @@ Utilize este exemplo para futuras implementações e se tiver dúvidas fique a v
 ## Instruções para rodar o projeto
 
 1. Faça o clone do projeto utilizando o seguinte comando:
+
 ```git@github.com:rafaelpalma88/poc-use-context.git```
 
 2. Instale as dependências utilizando o seguinte comando:
+
 ```npm install```
 
 3. Execute o projeto utilizando o seguinte comando:
+
 ```npm run dev```

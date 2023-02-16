@@ -14,7 +14,7 @@ Utilize este exemplo para futuras implementações e se tiver dúvidas fique a v
 
 1. Faça o clone do projeto utilizando o seguinte comando:
 
-```git@github.com:rafaelpalma88/poc-use-context.git```
+```git clone git@github.com:rafaelpalma88/poc-use-context.git```
 
 2. Instale as dependências utilizando o seguinte comando:
 
